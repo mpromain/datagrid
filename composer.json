@@ -1,5 +1,5 @@
 {
-	"name": "nextras/datagrid",
+	"name": "mpromain/datagrid",
 	"type": "library",
 	"description": "Datagrid component for Nette Framework.",
 	"keywords": ["nextras", "nette", "datagrid"],
